@@ -6,9 +6,8 @@ I'm Developer from Honduras, i love coding and learn differents technologies, be
 * SQL, MySQL 
 * node.js 
 * HTML, CSS, JS
-* React Native 
 * Windows Forms C# 
-* Linux 
+* ETL 
 * Java
 
 <!--
