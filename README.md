@@ -1,6 +1,6 @@
 ### Hi there, I'm Brayan 👋
 
-I'm Developer from Honduras, i love coding and learn differents technologies, because  i think we need to keep learning always, i had worked in differents projects with distinct technologies, you can find some projects here. I like so much work with SQL and node.js
+I'm Developer from Honduras, i love coding and learn differents technologies, because  i think we need to keep learning always, i had worked in differents projects with distinct technologies, you can find some projects here.
 
 ## Skills 
 * SQL, MySQL 
