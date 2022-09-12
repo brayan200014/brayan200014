@@ -3,7 +3,7 @@
 <h5>I'm Developer from Honduras, i love coding and learn differents technologies, because  i think we need to keep learning always, i had worked in differents projects with distinct technologies, you can find some projects here.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayan200014&label=Profile%20views&color=0e75b6&style=flat" alt="brayan200014" /> </p>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="Coding" width="400" height="600" align="right"></img>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="Coding" width="400" height="500" align="right"></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brayan-hernandez-144a23242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan-hernandez-144a23242" height="30" width="40" /></a>
