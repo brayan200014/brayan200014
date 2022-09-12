@@ -3,7 +3,7 @@
 <h5>I'm Developer from Honduras, i love coding and learn differents technologies, because  i think we need to keep learning always, i had worked in differents projects with distinct technologies, you can find some projects here.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayan200014&label=Profile%20views&color=0e75b6&style=flat" alt="brayan200014" /> </p>
-<iframe align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
